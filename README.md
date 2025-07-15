@@ -58,7 +58,8 @@ I love turning complex system workflows into elegant, maintainable code. I belie
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuneebDevss&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MuneebDevss&theme=tokyonight)
+
 
 ---
 
